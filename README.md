@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-typeform-webhook](modules/typeform-webhook)
 - [react-native-user-profile](modules/user-profile)
 - [django-core](backend/modules)
+- [django-disqus](backend/modules)
 
 # Getting started: Frontend
 
