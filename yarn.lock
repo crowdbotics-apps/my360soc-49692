@@ -1703,6 +1703,9 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.5.tgz#4fc56c15c580b9adb7dc3c333a134e540b44bfb1"
   integrity sha512-Vo+PSpZG2/fmgmiNzYK9qWRh8h/CHrwD0mo1h1DzL4yzHNSfWYujGTYsWGreD000gcgmZ7K4Ys6Tx9TxtsKdDw==
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
@@ -1721,7 +1724,7 @@
     react-native-screens "3.10.2"
     react-native-typeform-embed "1.0.4"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
